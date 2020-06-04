@@ -1,6 +1,7 @@
 # practica_motor_ajedrez
 Repositorio en el que se propone utilizar el ajedrez como herramienta para el aprendizaje de Python.
 Es necesario instalar la librería python-chess para ejecutar el código: pip install python-chess
+
 El código está formado por:
 - La función play_game que permite que se desarrolle una partida de ajedrez
 - La función human_player
